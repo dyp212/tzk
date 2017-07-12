@@ -21,6 +21,7 @@ public class AppTest
     }
 
     /**
+     *  remote update git 2
      * @return the suite of tests being tested
      */
     public static Test suite()
