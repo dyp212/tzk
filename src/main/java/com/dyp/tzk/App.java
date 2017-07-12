@@ -18,15 +18,9 @@ import org.apache.zookeeper.server.auth.DigestAuthenticationProvider;
 
 /**
  * Hello world!
- * remote git
- * remote git
- * remote git
  * local update
  * 
  * local git
- * remote update
- * remote update
- * remote update
  */
 public class App 
 {
