@@ -74,6 +74,7 @@ public class App
 			byte[] nvalue = zk.getData("/root/nnode1", watcher, stat1);
 			System.out.println("nnode value:"+ new String(nvalue));
 			
+			System.out.println("over");
 			zk.close();
 		} catch (Exception e) {
 			e.printStackTrace();
