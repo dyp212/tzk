@@ -22,7 +22,9 @@ public class AppTest
     }
 
     /**
+     * test local 1
      * local git push
+     * this is second line
      * @return the suite of tests being tested
      */
     public static Test suite()
